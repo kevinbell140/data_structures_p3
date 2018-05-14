@@ -1,0 +1,9 @@
+A,Blake Bortles,Republican,Florida 
+D,Abraham Lincoln,Republican,Illinois
+D,Warren Harding,Republican,Ohio
+A,Nick Marshall,Republican,Alabama
+Q,Felius Schmuck,Republican,California
+A,Corey Grant,Republican,Alabama
+D,Abraham Lincoln,Republican,Illinois
+A,George Bush,Republican,Texas
+A,Cam Newton,Republican,Georgia
